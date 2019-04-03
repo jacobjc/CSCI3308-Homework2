@@ -1,0 +1,5 @@
+Q: What are the things needed for Bootstrap to be loaded?
+A: Bootstrap needs a link to the code, a unicode char size setting, and webpage size specs inside head. We also need JQuery scripts, Bootstrap, and a popper.js for the body.
+
+Q: How does Bootstrap's grid system work?
+A: You to can only have 12 columns on a page, plus additional rows. Info is automatically alligned to the left of the columns.

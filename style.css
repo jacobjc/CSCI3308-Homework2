@@ -1,0 +1,39 @@
+/*Jacob Christiansen*/
+#col1{
+	background-color:red;
+	color:white;
+	padding:12px;
+}
+
+#col2{
+	background-color:orange;
+	color:white;
+	padding:12px;
+}
+
+#col3{
+	background-color:black;
+	color:white;
+	padding:12px;
+}
+
+#col4{
+	background-color:green;
+	color:white;
+	padding:12px;
+}
+#col5{
+	background-color:blue;
+	color:white;
+	padding:12px;
+}
+
+#col6{
+	background-color:purple;
+	color:white;
+	padding:12px;
+}
+
+body{
+	text-align:center;
+}
